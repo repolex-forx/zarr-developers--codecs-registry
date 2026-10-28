@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "codecs-registry",
+  "versions": [
+    {
+      "commit": "419b97c12e8b15230b952ca91ed778c2fabbb8a9",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:27:24.545622+00:00"
+    }
+  ]
+}
