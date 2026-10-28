@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "zarr-developers",
+  "repo": "codecs-registry",
+  "versions": [
+    {
+      "commit": "419b97c12e8b15230b952ca91ed778c2fabbb8a9",
+      "parsed_at": "2026-10-28T11:24:49.112807+00:00",
+      "filetree": "filetree/419b97c12e8b15230b952ca91ed778c2fabbb8a9.nq.gz",
+      "blobs": [
+        "blob/ec220511e2ee0f6e4590823ebbdb42b9cc1cdd09.nq.gz",
+        "blob/021b240b4a980d548877487c62cf5bb53af9d4a3.nq.gz",
+        "blob/7bcd9530ac52e727b5713edae9cbefcb4e578554.nq.gz",
+        "blob/019cc9ea029759678f9491fc14ef54581af715ed.nq.gz",
+        "blob/1b5fa66a21aeb7ac2b7364116628720bb095253d.nq.gz",
+        "blob/798552c51c38bfe51aa4bc8b9b6f4079532185e0.nq.gz",
+        "blob/8e14308a0b4a4d554be16deefdaf33a2d9ba53bc.nq.gz",
+        "blob/3a543ad87c75a057e725cc37443d2060ba65a99e.nq.gz",
+        "blob/4ea67f2b77b35016563d801567253b448d5ed941.nq.gz",
+        "blob/171bfdad76e222b32d967d29e39b879b7c2b47fe.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
